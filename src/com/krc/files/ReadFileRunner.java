@@ -22,6 +22,8 @@ public class ReadFileRunner {
 		Predicate<? super String> notPersonPredicate = s -> !s.contains("person");
 		Files.lines(file).map(lowerCaseMapper).filter(notPersonPredicate).forEach(System.out::println);
 		
+		Path jsonFile  = Paths.get("src/resources/data.json");
+		
 	}
 
 }

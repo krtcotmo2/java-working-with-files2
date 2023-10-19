@@ -1,0 +1,10 @@
+2023-10-19 14:51:29
+Cannot invoke "String.length()" because "s" is null
+java.lang.NullPointerException: Cannot invoke "String.length()" because "s" is null
+	at com.krc.files.WritingRunner.main(WritingRunner.java:22)
+
+2023-10-19 14:51:34
+Cannot invoke "String.length()" because "s" is null
+java.lang.NullPointerException: Cannot invoke "String.length()" because "s" is null
+	at com.krc.files.WritingRunner.main(WritingRunner.java:22)
+
