@@ -1,0 +1,19 @@
+{
+	"games":[
+		{
+			"name": "Broadside and Boarding Parties",
+			"maker": "Milton Bradley",
+			"year": 1984
+		},
+		{
+			"name": "Dungeons and Dagons",
+			"maker": "TSR",
+			"year": 1974
+		},
+		{
+			"name": "Warhammer",
+			"maker": "Games Workshop",
+			"year": 1983
+		}
+	]
+}
